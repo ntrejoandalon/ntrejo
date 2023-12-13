@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ntrejo/static/css/main.9094c745.css",
-    "main.js": "/ntrejo/static/js/main.52692853.js",
+    "main.css": "/ntrejo/static/css/main.7da8c145.css",
+    "main.js": "/ntrejo/static/js/main.4dce58f1.js",
     "static/js/738.27f76c8b.chunk.js": "/ntrejo/static/js/738.27f76c8b.chunk.js",
     "static/js/372.da7633e3.chunk.js": "/ntrejo/static/js/372.da7633e3.chunk.js",
     "static/js/856.e40ff302.chunk.js": "/ntrejo/static/js/856.e40ff302.chunk.js",
@@ -39,8 +39,8 @@
     "static/media/exampleEmail.png": "/ntrejo/static/media/exampleEmail.7ef0428107309e2eec98.png",
     "static/media/10-9textoverimage.jpg": "/ntrejo/static/media/10-9textoverimage.f147d4a5dd1bb2361c62.jpg",
     "index.html": "/ntrejo/index.html",
-    "main.9094c745.css.map": "/ntrejo/static/css/main.9094c745.css.map",
-    "main.52692853.js.map": "/ntrejo/static/js/main.52692853.js.map",
+    "main.7da8c145.css.map": "/ntrejo/static/css/main.7da8c145.css.map",
+    "main.4dce58f1.js.map": "/ntrejo/static/js/main.4dce58f1.js.map",
     "738.27f76c8b.chunk.js.map": "/ntrejo/static/js/738.27f76c8b.chunk.js.map",
     "372.da7633e3.chunk.js.map": "/ntrejo/static/js/372.da7633e3.chunk.js.map",
     "856.e40ff302.chunk.js.map": "/ntrejo/static/js/856.e40ff302.chunk.js.map",
@@ -48,7 +48,7 @@
     "787.d4aba7ab.chunk.js.map": "/ntrejo/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9094c745.css",
-    "static/js/main.52692853.js"
+    "static/css/main.7da8c145.css",
+    "static/js/main.4dce58f1.js"
   ]
 }
